@@ -26,7 +26,7 @@
       }];
     };
     defaultGateway = "192.168.50.10";
-    nameservers = [ "192.168.50.5", "192.168.50.6" ];
+    nameservers = [ "192.168.50.5" "192.168.50.6" ];
   };
 
   # System localization
